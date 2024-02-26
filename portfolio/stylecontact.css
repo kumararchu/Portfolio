@@ -1,0 +1,36 @@
+.detel{
+    margin-right:70%;
+    margin-top: 13%;
+    text-align: center;
+    
+  }
+  .detel h1{
+    font-size: 40;
+    color: black;
+    margin-bottom: 20px;
+    
+  }
+  span{
+     color:orange;
+  }
+  .sara{
+    font-size: 20px;
+    margin-left:45%;
+    margin-top: -13%;
+  }
+  .sara a{
+    background: #212121;
+    padding:2px 5px;
+    text-decoration: none;
+    font-weight: bold;
+    color:#fff;
+    display: inline-block;
+    margin: 10px 0;
+    border-radius: 6px;}
+  
+  .home{
+    margin-left:10%;
+    font-size:28;
+    color: black;
+    margin-top:-5%;
+  }
